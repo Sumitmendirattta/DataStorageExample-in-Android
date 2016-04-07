@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sumit Android Database App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="open_sqlite">SQLite</string>
+    <string name="sample_text">Sample Text</string>
+
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="enter_msg">Enter Data</string>
+
+    <string name="btn_close">Close App</string>
+    <string name="hello_world"></string>
+    <string name="open_preferences">Preferences</string>
+
+    <string name="bookauthor_hint">Enter Max 70 Char</string>
+    <string name="description_hint">Enter Max 70 Char</string>
+    <string name="save_msg">Save Data</string>
+    <string name="save_success_msg">Message saved</string>
+    <string name="bookname_hint">Enter Max 70 Char</string>
+    <string name="title_activity_set_preferences">SetPreferencesActivity</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author">Book Author</string>
+    <string name="cancel_msg">Cancel</string>
+
+    <string name="description">Description</string>
+    <string name="save_btn">Save Data</string>
+    <string name="cancel_btn">Close App</string>
+
+</resources>
